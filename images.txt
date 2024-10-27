@@ -1,6 +1,14 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+linuxserver/duplicati:latest
+linuxserver/calibre-web:latest
+linuxserver/phpmyadmin
+linuxserver/qbittorrent
+mariadb
+redis
+wordpress
+cloudreve/cloudreve:latest
+gdy666/lucky
+jxxghp/moviepilot:latest
+mtphotos/mt-photos-ai:onnx-latest
+mtphotos/mt-photos:latest
+vaultwarden/server:latest
+privoce/vocechat-server:latest
