@@ -13,3 +13,4 @@ vaultwarden/server:latest
 privoce/vocechat-server:latest
 emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
+rustdesk/rustdesk-server-s6:latest
