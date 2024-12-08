@@ -14,3 +14,4 @@ privoce/vocechat-server:latest
 emby/embyserver:latest
 jxxghp/moviepilot-v2:latest
 rustdesk/rustdesk-server-s6:latest
+mzz2017/v2raya
