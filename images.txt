@@ -1,4 +1,4 @@
-dreamacro/clash
+ghcr.io/sagernet/sing-box
 linuxserver/calibre-web:latest
 linuxserver/phpmyadmin
 linuxserver/qbittorrent
