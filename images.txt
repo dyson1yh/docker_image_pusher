@@ -1,6 +1,6 @@
 linuxserver/calibre-web:latest
 cloudreve/cloudreve:latest
-gdy666/lucky:2.13.4
+gdy666/lucky:latest
 mariadb
 jxxghp/moviepilot:latest
 mtphotos/mt-photos-ai:onnx-latest
